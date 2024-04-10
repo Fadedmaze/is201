@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+br
+h5{
+   display: inline;
+    text-align: center;
+    font-style: italic;
+    background-color: darkgrey;
+    font-weight: bolder;
+    color: black;
+}
+img{
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: darkgreen;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+}
+.rizz{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+  background-color: blue;
+  border: dashed;
+  font-size: 40pt;
+  font-style: italic;}
+  li
+  {text-decoration: overline;}
+  li:hover
+  {text-decoration: underline;}
